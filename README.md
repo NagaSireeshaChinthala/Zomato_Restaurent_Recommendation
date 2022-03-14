@@ -1,4 +1,4 @@
-# [Zomato Restaurent Recommendation] (https://github.com/NagaSireeshaChinthala/Zomato_Restaurent_Recommendation)
+# [Zomato Restaurent Recommendation](https://github.com/NagaSireeshaChinthala/Zomato_Restaurent_Recommendation)
 People from different states and communities live in Bangalore because of their career preferences. Being titled Silicon Valley of India, Bangalore attracts a huge IT crowd nevertheless foodies too. Currently, there are nearly 9K restaurants registered on Zomato in Bangalore only. 
 
 Recommender systems are among the most popular applications of data science at the moment. A recommender system is a type of information filtering system. By drawing from huge data sets, the system’s algorithm can pinpoint accurate user preferences.
