@@ -9,3 +9,11 @@ Analyze and derive insightful information from data about restaurants in the cit
 Build recommender system using content-based filtering technique based on multiple features that are available in the data.
 
 Integrate this recommendation system to Chatbot.
+
+
+# Execution
+1. data_cleaning.ipynb
+2. data_exploration.ipynb
+3. topic_modelling.ipynb
+4. recommendation_consine_similarity.ipynb
+5. recommendation_topic_modelling.ipynb
