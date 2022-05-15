@@ -12,11 +12,11 @@ Deplo the recommendation system to Heroku.
 
 # Pre-requisites
 Python <br />
-streamlist
-sklearn
-pyLDAvis
-gensim
-nltk
+streamlist <br />
+sklearn <br />
+pyLDAvis <br />
+gensim <br />
+nltk <br />
 
 
 # Instructions to run
