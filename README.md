@@ -11,7 +11,7 @@ Build recommender system using content-based filtering technique based on multip
 Deplo the recommendation system to Heroku.
 
 # Pre-requisites
-Python
+Python <br />
 streamlist
 sklearn
 pyLDAvis
