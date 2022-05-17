@@ -24,7 +24,6 @@ def convert_int(x):
 df = pd.read_csv(r'C:\Users\bpavu\OneDrive\Desktop\Siri\Capstone\Zomato_Restaurent_Recommendation\data\data_topic.csv')
 df['dish_reviewed'] = df['dish_reviewed'].fillna('')
 df['cuisines'] = df['cuisines'].fillna('')
-df['reviews_list'] = df['reviews_list'].fillna('')
 df['menu_item'] = df['menu_item'].fillna('')
 
 def get_recommendations(name):
